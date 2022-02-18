@@ -1,5 +1,5 @@
 # VST Audio Plugin
-### *Epicodus Capstone Project by Aaron Minnick*
+#### *Epicodus Capstone Project by Aaron Minnick*
 ---
 ### Capstone Proposal
 see [here](./capstone-proposal.md)
