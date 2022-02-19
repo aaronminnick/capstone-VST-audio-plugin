@@ -8,5 +8,9 @@
 
 1520 - 1550: Reviewed some example plugin source code for [iPlug2 library](https://iplug2.github.io/) to see how well I could decipher it with some understanding of C++. Read the [iPlug2 whitepaper](https://raw.githubusercontent.com/iPlug2/iPlug2/master/Documentation/Papers/WAC2018.pdf) which gives a high-level view of the library's capabilities.
 
-##### Cumulative Hours 2/18: 4
-##### Cumulative Hours Total: 4
+1600 - 1645: Worked through [getting started tutorial](https://github.com/iPlug2/iPlug2/wiki/02_Getting_started_windows) for iPlug2. Succesfully opened example project in Visual Studio and built standalone and VST3 plugins from the example project.
+
+1645 - 1700: Explored various examples included in plugin repo to try to get a grasp on general structure of a plugin and some of the parameters used.
+
+##### Cumulative Hours 2/18: 5
+#### Cumulative Hours Total: 5
