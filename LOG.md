@@ -13,4 +13,10 @@
 1645 - 1700: Explored various examples included in plugin repo to try to get a grasp on general structure of a plugin and some of the parameters used.
 
 ##### Cumulative Hours 2/18: 5
-#### Cumulative Hours Total: 5
+
+### 2/20/22
+1300 - 1415: Read about digital sound processing (DSP) techniques and filter design from [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827), one of my college textbooks, to refresh my memory on some concepts.
+
+##### Cumaltive Hours 2/20: 1:15
+
+#### Cumulative Hours Total: 6:15
