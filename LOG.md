@@ -19,6 +19,6 @@
 
 1415 - 1505: Worked through example plugin project and referenced against [iPlug2 documentation](https://iplug2.github.io/iPlug2/index.html) to better understand how parts of the solution are connected to eachother to process signal flow.
 
-##### Cumulative Hours 2/20: 1:15
+##### Cumulative Hours 2/20: 2:05
 
-#### Cumulative Hours Total: 6:15
+#### Cumulative Hours Total: 7:05
