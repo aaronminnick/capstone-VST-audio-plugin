@@ -12,11 +12,13 @@
 
 1645 - 1700: Explored various examples included in plugin repo to try to get a grasp on general structure of a plugin and some of the parameters used.
 
-##### Cumulative Hours 2/18: 5
+##### Cumulative Hours 2/18: 5:00
 
-### 2/20/22
+#### 2/20/22
 1300 - 1415: Read about digital sound processing (DSP) techniques and filter design from [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827), one of my college textbooks, to refresh my memory on some concepts.
 
-##### Cumaltive Hours 2/20: 1:15
+1415 - 1505: Worked through example plugin project and referenced against [iPlug2 documentation](https://iplug2.github.io/iPlug2/index.html) to better understand how parts of the solution are connected to eachother to process signal flow.
+
+##### Cumulative Hours 2/20: 1:15
 
 #### Cumulative Hours Total: 6:15
