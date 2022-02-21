@@ -19,6 +19,8 @@
 
 1415 - 1505: Worked through example plugin project and referenced against [iPlug2 documentation](https://iplug2.github.io/iPlug2/index.html) to better understand how parts of the solution are connected to eachother to process signal flow.
 
-##### Cumulative Hours 2/20: 2:05
+1900 - 2000: Creative exploration / analyzed and "broke down" the parameters of physical guitar pedals on a sound sample to think about possible ways to recreate the effects in a digital plugin.
 
-#### Cumulative Hours Total: 7:05
+##### Cumulative Hours 2/20: 3:05
+
+#### Cumulative Hours Total: 8:05
