@@ -26,6 +26,9 @@
 #### 2/25/22
 0910 - 1135: Finished reading through the tutorials / language introduction on [C++](www.cplusplus.com).
 
-##### Cumulative Hours 2/25: 2:25
+1215 - 1330: There are no tutorial series I can find for iPlug2, so I worked through the [tutorials for the original iPlug library by Martin Finke](http://www.martin-finke.de/blog/tags/making_audio_plugins.html). This was time consuming - there are a lot of differences in the basic structure of a plugin between versions.
+ * 1315: Got simple digital distortion to work.
 
-#### Cumulative Hours Total: 10:30
+##### Cumulative Hours 2/25: 3:40
+
+#### Cumulative Hours Total: 11:45
