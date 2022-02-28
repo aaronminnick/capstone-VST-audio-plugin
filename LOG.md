@@ -33,4 +33,9 @@
 
 ##### Cumulative Hours 2/25: 4:55
 
-#### Cumulative Hours Total: 13:00
+#### 2/28/22
+1240 - 1310: Worked through installation and [getting started tutorial](https://docs.juce.com/master/tutorial_new_projucer_project.html) for [JUCE](https://juce.com/), an alternate C++ audio plugin framework.
+
+##### Cumulative Hours 2/28: 0:30
+
+#### Cumulative Hours Total: 13:30
