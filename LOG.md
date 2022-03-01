@@ -38,4 +38,9 @@
 
 ##### Cumulative Hours 2/28: 0:30
 
-#### Cumulative Hours Total: 13:30
+#### 3/1/22
+1225 - 1300 Started working through [basic plugin tutorial](https://docs.juce.com/master/tutorial_create_projucer_basic_plugin.html) using JUCE, reviewed template code for a basic plugin to try to parse meaning.
+
+##### Cumulative Hours 3/1: 0:35
+
+#### Cumulative Hours Total: 14:05
