@@ -43,4 +43,9 @@
 
 ##### Cumulative Hours 3/1: 0:35
 
-#### Cumulative Hours Total: 14:05
+#### 3/4/22
+1015 - 1115: Continued with [audio plugin tutorial](https://docs.juce.com/master/tutorial_create_projucer_basic_plugin.html) for JUCE. Succesfully completed tutorial for linking a slider to modify incoming midi messages. Learned about Visual Studio debugger and build configuration.
+
+##### Cumulative Hours 3/4: 1:00
+
+#### Cumulative Hours Total: 15:05
