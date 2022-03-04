@@ -32,6 +32,10 @@
 1600 - 1715: Continue working through tutorials. Trying to add an oscillator but version differences in file structure make it confusing.
 
 ##### Cumulative Hours 2/25: 4:55
+---
+_At this point, I decided to explore an alternate framework with better documentation._
+
+---
 
 #### 2/28/22
 1240 - 1310: Worked through installation and [getting started tutorial](https://docs.juce.com/master/tutorial_new_projucer_project.html) for [JUCE](https://juce.com/), an alternate C++ audio plugin framework.
@@ -46,6 +50,8 @@
 #### 3/4/22
 1015 - 1115: Continued with [audio plugin tutorial](https://docs.juce.com/master/tutorial_create_projucer_basic_plugin.html) for JUCE. Succesfully completed tutorial for linking a slider to modify incoming midi messages. Learned about Visual Studio debugger and build configuration.
 
-##### Cumulative Hours 3/4: 1:00
+1420 - 1530: Continued with tutorials (topics: audio processing blocks, white noise generation, sine wave generation using std::sin).
 
-#### Cumulative Hours Total: 15:05
+##### Cumulative Hours 3/4: 2:10
+
+#### Cumulative Hours Total: 16:15
