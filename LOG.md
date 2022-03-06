@@ -59,6 +59,8 @@ _At this point, I decided to explore an alternate framework with better document
 
 1140 - 1200: Worked through tutorial on adding parameter control to a plugin (allows host application to automate plugin values over time for expression).
 
-##### Cumulative Hours 3/6: 1:20
+1400 - 1500: Worked through additional [demo plugin tutorials](https://docs.juce.com/master/tutorial_plugin_examples.html) and began [introduction to DSP tutorial](https://docs.juce.com/master/tutorial_dsp_introduction.html) which explains how to do several DSP things including filters.
 
-#### Cumulative Hours Total: 17:35
+##### Cumulative Hours 3/6: 2:20
+
+#### Cumulative Hours Total: 18:35
