@@ -54,4 +54,11 @@ _At this point, I decided to explore an alternate framework with better document
 
 ##### Cumulative Hours 3/4: 2:10
 
-#### Cumulative Hours Total: 16:15
+#### 3/6/22
+1030 - 1130: Practiced implementing code I'd reviewed: added a new slider for level to an example project and implemented frequency and level smoothing through interpolation.
+
+1140 - 1200: Worked through tutorial on adding parameter control to a plugin (allows host application to automate plugin values over time for expression).
+
+##### Cumulative Hours 3/6: 1:20
+
+#### Cumulative Hours Total: 17:35
