@@ -67,4 +67,12 @@ _At this point, I decided to explore an alternate framework with better document
 
 ##### Cumulative Hours 3/6: 4:00
 
-#### Cumulative Hours Total: 20:15
+#### 3/7/22
+
+0900 - 0930: Thought about design of capstone plugin and made a list of items to implement. Updated plugin GUI design accordingly.
+
+0930 - 1000: Read about comb filter design, reviewed examples.
+
+##### Cumulative Hours 3/7: 1:00
+
+#### Cumulative Hours Total: 21:15
