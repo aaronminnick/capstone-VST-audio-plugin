@@ -63,8 +63,8 @@ _At this point, I decided to explore an alternate framework with better document
 
 1900 - 2010: Continued with DSP tutorial.
 
-2245 - 2300: Mocked up plugin GUI design in Figma.
+2245 - 2315: Mocked up plugin GUI design in Figma.
 
-##### Cumulative Hours 3/6: 3:45
+##### Cumulative Hours 3/6: 4:00
 
-#### Cumulative Hours Total: 20:00
+#### Cumulative Hours Total: 20:15
