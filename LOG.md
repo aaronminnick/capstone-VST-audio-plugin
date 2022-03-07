@@ -61,6 +61,8 @@ _At this point, I decided to explore an alternate framework with better document
 
 1400 - 1500: Worked through additional [demo plugin tutorials](https://docs.juce.com/master/tutorial_plugin_examples.html) and began [introduction to DSP tutorial](https://docs.juce.com/master/tutorial_dsp_introduction.html) which explains how to do several DSP things including filters.
 
-##### Cumulative Hours 3/6: 2:20
+1900 - 2010: Continued with DSP tutorial.
 
-#### Cumulative Hours Total: 18:35
+##### Cumulative Hours 3/6: 3:30
+
+#### Cumulative Hours Total: 19:45
