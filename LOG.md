@@ -12,7 +12,7 @@
 
 1645 - 1700: Explored various examples included in plugin repo to try to get a grasp on general structure of a plugin and some of the parameters used.
 
-##### Cumulative Hours 2/18: 5:00
+##### Hours 2/18: 5:00
 
 #### 2/20/22
 1300 - 1415: Read about digital sound processing (DSP) techniques and filter design from [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827), one of my college textbooks, to refresh my memory on some concepts.
@@ -21,7 +21,7 @@
 
 1900 - 2000: Creative exploration / analyzed and "broke down" the parameters of physical guitar pedals and listening to effected sound samples to think about possible ways to recreate the effects in a digital plugin.
 
-##### Cumulative Hours 2/20: 3:05
+##### Hours 2/20: 3:05
 
 #### 2/25/22
 0910 - 1135: Finished reading through the tutorials / language introduction on [C++](www.cplusplus.com).
@@ -31,7 +31,7 @@
 
 1600 - 1715: Continue working through tutorials. Trying to add an oscillator but version differences in file structure make it confusing.
 
-##### Cumulative Hours 2/25: 4:55
+##### Hours 2/25: 4:55
 ---
 _At this point, I decided to explore an alternate framework with better documentation._
 
@@ -40,19 +40,19 @@ _At this point, I decided to explore an alternate framework with better document
 #### 2/28/22
 1240 - 1310: Worked through installation and [getting started tutorial](https://docs.juce.com/master/tutorial_new_projucer_project.html) for [JUCE](https://juce.com/), an alternate C++ audio plugin framework.
 
-##### Cumulative Hours 2/28: 0:30
+##### Hours 2/28: 0:30
 
 #### 3/1/22
 1225 - 1300 Started working through [basic plugin tutorial](https://docs.juce.com/master/tutorial_create_projucer_basic_plugin.html) using JUCE, reviewed template code for a basic plugin to try to parse meaning.
 
-##### Cumulative Hours 3/1: 0:35
+##### Hours 3/1: 0:35
 
 #### 3/4/22
 1015 - 1115: Continued with [audio plugin tutorial](https://docs.juce.com/master/tutorial_create_projucer_basic_plugin.html) for JUCE. Succesfully completed tutorial for linking a slider to modify incoming midi messages. Learned about Visual Studio debugger and build configuration.
 
 1420 - 1530: Continued with tutorials (topics: audio processing blocks, white noise generation, sine wave generation using std::sin).
 
-##### Cumulative Hours 3/4: 2:10
+##### Hours 3/4: 2:10
 
 #### 3/6/22
 1030 - 1130: Practiced implementing code I'd reviewed: added a new slider for level to an example project and implemented frequency and level smoothing through interpolation.
@@ -65,7 +65,7 @@ _At this point, I decided to explore an alternate framework with better document
 
 2245 - 2315: Mocked up plugin GUI design in Figma.
 
-##### Cumulative Hours 3/6: 4:00
+##### Hours 3/6: 4:00
 
 #### 3/7/22
 
@@ -73,6 +73,12 @@ _At this point, I decided to explore an alternate framework with better document
 
 0930 - 1000: Read about comb filter design, reviewed examples.
 
-##### Cumulative Hours 3/7: 1:00
+##### Hours 3/7: 1:00
 
-#### Cumulative Hours Total: 21:15
+#### 3/8/22
+
+0830 - 1030: Read tutorial about delay in JUCE (essential element for comb filter design).
+
+##### Hours 3/8: 2:00
+
+#### Cumulative Hours: 23:15
