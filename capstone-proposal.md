@@ -2,7 +2,7 @@ __Name of Student:__ Aaron Minnick
 
 __Name of Project:__ VST Audio Plugin
 
-__Project's Purpose or Goal:__ Program a multi-comb filter bank VST plugin for use in any digital audio workstation (DAW) program supporting VST-format plugins, with full GUI and oscilliscope for monitoring input and output frequency response.
+__Project's Purpose or Goal:__ Program a multi-comb filter bank VST plugin for use in any digital audio workstation (DAW) program supporting VST-format plugins, with full GUI and spectrum analyzer for monitoring input and output frequency response.
 
 __List the absolute minimum features the project requires to meet this purpose or goal:__
 * VST plugin functions and effects audio in the intended manner
