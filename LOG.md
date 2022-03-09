@@ -85,6 +85,8 @@ _At this point, I decided to explore an alternate framework with better document
 
 0830 - 1015: Read tutorials on FFT and how to make a display of frequency spectrum analysis.
 
-##### Hours 3/9: 1:45
+1145 - 1200: Reviewed some tutorials on JUCE components (display and control items).
 
-#### Cumulative Hours: 25:00
+##### Hours 3/9: 2:00
+
+#### Cumulative Hours: 25:15
