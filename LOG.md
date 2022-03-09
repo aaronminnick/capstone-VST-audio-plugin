@@ -81,4 +81,10 @@ _At this point, I decided to explore an alternate framework with better document
 
 ##### Hours 3/8: 2:00
 
-#### Cumulative Hours: 23:15
+#### 3/9/22
+
+0830 - 1015: Read tutorials on FFT and how to make a display of frequency spectrum analysis.
+
+##### Hours 3/9: 1:45
+
+#### Cumulative Hours: 25:00
